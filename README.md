@@ -2,8 +2,8 @@
 <h3 align="center">A passionate computer science student from Brazil</h3>
 
 <div>
-  <img src="giphy.gif" alt="this slowpoke moves"  width=200/>
-  <img src="source.gif" alt="this slowpoke moves"  width=200/>
+  <img src="giphy.gif" alt="this slowpoke moves"  width=400/>
+  <img src="source.gif" alt="this slowpoke moves"  width=800/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos" /> </p>
 
