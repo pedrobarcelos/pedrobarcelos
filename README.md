@@ -3,7 +3,7 @@
 
 <div>
   <img src="giphy.gif" alt="this slowpoke moves"  width=400/>
-  <img src="source.gif" alt="this slowpoke moves"  width=800/>
+  <img src="source.gif" alt="this slowpoke moves"  width=400/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos" /> </p>
 
