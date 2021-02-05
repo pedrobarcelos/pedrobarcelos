@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro, AKA Barcelos</h1>
 <h3 align="center">A passionate computer science student from Brazil</h3>
 
-<img src="b93255da56ec60939e2e209dd48a8b69a1194981_hq.gif" alt="this slowpoke moves"  width=500/>
+<img src="giphy.gif" alt="this slowpoke moves"  width=500/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos" /> </p>
 
