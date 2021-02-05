@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pedro, AKA Barcelos</h1>
 <h3 align="center">A passionate computer science student from Brazil</h3>
 
-<img src="giphy.gif" alt="this slowpoke moves"  width=500/>
-
+<div>
+  <img src="giphy.gif" alt="this slowpoke moves"  width=200/>
+  <img src="source.gif" alt="this slowpoke moves"  width=200/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ph_barcelos" target="blank"><img src="https://img.shields.io/twitter/follow/ph_barcelos?logo=twitter&style=for-the-badge" alt="ph_barcelos" /></a> </p>
