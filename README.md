@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Pedro, AKA Barcelos</h1>
- <div align="center" font-size: 22pt>
- <strong>A passionate computer science student from Brazil</strong>
+ <div align="center" font-size: 22px>
+ <strong font-size: 22px>A passionate computer science student from Brazil</strong>
  <img src="boy.gif" alt="this slowpoke moves"  width=60/>
   
 </div>
