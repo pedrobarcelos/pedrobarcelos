@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ph_barcelos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ph_barcelos" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pedro henrique barcelos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedro henrique barcelos" height="30" width="40" /></a>
-<a href="https://fb.com/pedro henrique barcelos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pedro henrique barcelos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pedro-henrique-barcelos-9a1349199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedro-henrique-barcelos-9a1349199" height="30" width="40" /></a>
+<a href="https://fb.com/pedrinho.barceloss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pedrinho.barceloss" height="30" width="40" /></a>
 <a href="https://instagram.com/ph_barcelos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ph_barcelos" height="30" width="40" /></a>
 <a href="https://discord.gg/#5609" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#5609" height="30" width="40" /></a>
 </p>
