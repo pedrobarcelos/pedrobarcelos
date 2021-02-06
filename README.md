@@ -7,10 +7,11 @@
  <div align="center">
   <a href="https://twitter.com/ph_barcelos" target="blank"><img src="https://img.shields.io/twitter/follow/ph_barcelos?logo=twitter&style=for-the-badge" alt="ph_barcelos" /></a></p>
  </div>
+ 
  <div>
-   <img align="left" src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos"/>
+   <img src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos"/>
  </div>
-- 🌱 I’m currently learning **JavaScript, Java** <img src="soruce.gif" alt="this slowpoke moves"  width=200/>
+- 🌱 I’m currently learning **JavaScript, Java** <img src="source.gif" alt="this slowpoke moves"  width=200/>
 
 - 👨‍💻 All of my projects are available at [https://phbarcelos.blogspot.com](https://phbarcelos.blogspot.com)
 
