@@ -11,7 +11,10 @@
  <div>
    <img src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos"/>
  </div>
-- 🌱 I’m currently learning **JavaScript, Java** <img src="source.gif" alt="this slowpoke moves"  width=100/>
+ <div>
+ - 🌱 I’m currently learning **JavaScript, Java** 
+  <img src="source.gif" alt="this slowpoke moves"  width=100/>
+ </div>
 
 - 👨‍💻 All of my projects are available at [https://phbarcelos.blogspot.com](https://phbarcelos.blogspot.com)
 
