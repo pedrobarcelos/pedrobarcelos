@@ -14,9 +14,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Java** 
 - 👨‍💻 All of my projects are available at [https://phbarcelos.blogspot.com](https://phbarcelos.blogspot.com)
-
 - 📫 How to reach me **pbarcelos56@icloud.com**
-
 - ⚡ Fun fact **I hate beans**
 
 <h3 align="left">Connect with me:</h3>
