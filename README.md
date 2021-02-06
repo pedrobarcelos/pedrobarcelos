@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Pedro, AKA Barcelos</h1>
  <div align="center">
   <h3>A passionate computer science student from Brazil</h3>
-  <img src="boy.gif" alt="this slowpoke moves"  width=60/>
+  <img src="boy.gif" alt="this slowpoke moves"  width=300/>
 </div>
 
 <div>
