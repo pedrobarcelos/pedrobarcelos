@@ -4,9 +4,9 @@
   <img src="boy.gif" alt="this slowpoke moves"  width=300/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ph_barcelos" target="blank"><img src="https://img.shields.io/twitter/follow/ph_barcelos?logo=twitter&style=for-the-badge" alt="ph_barcelos" /></a> </p>
+ <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos"/>
+  <a href="https://twitter.com/ph_barcelos" target="blank"><img src="https://img.shields.io/twitter/follow/ph_barcelos?logo=twitter&style=for-the-badge" alt="ph_barcelos" /</a>  </div>
 
 - 🌱 I’m currently learning **JavaScript, Java**
 
