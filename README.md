@@ -5,11 +5,11 @@
 </div>
 
  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos"/>
+  
   <a href="https://twitter.com/ph_barcelos" target="blank"><img src="https://img.shields.io/twitter/follow/ph_barcelos?logo=twitter&style=for-the-badge" alt="ph_barcelos" /></a>
    </p>
    </div>
-
+<img align="left" src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos"/>
 - 🌱 I’m currently learning **JavaScript, Java**
 
 - 👨‍💻 All of my projects are available at [https://phbarcelos.blogspot.com](https://phbarcelos.blogspot.com)
