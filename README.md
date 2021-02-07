@@ -3,7 +3,7 @@
   <h3>A passionate computer science student from Brazil</h3>
   <img src="boy.gif" alt="this slowpoke moves"  width=300/>
 </div>
-[![Spotify](https://pedrobarcelos.vercel.app/api/spotify)](https://open.spotify.com/user/pedrobarcelos)
+
 [![Spotify](https://pedrobarcelos.vercel.app/api/spotify)](https://open.spotify.com/user/pedrobarcelos)
 
 
