@@ -3,6 +3,9 @@
   <h3>A passionate computer science student from Brazil</h3>
   <img src="boy.gif" alt="this slowpoke moves"  width=300/>
 </div>
+[![Spotify](https://pedrobarcelos.vercel.app/api/spotify)](https://open.spotify.com/user/pedrobarcelos)
+
+
 
  <div align="center">
   <a href="https://twitter.com/ph_barcelos" target="blank"><img src="https://img.shields.io/twitter/follow/ph_barcelos?logo=twitter&style=for-the-badge" alt="ph_barcelos" /></a></p>
