@@ -14,7 +14,7 @@
  
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-git-master.pedrobarcelos.vercel.app///api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
+[<img src="https://spotify-now-playing-git-master.pedrobarcelos.vercel.app///api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/pbarcelos56)
  <div>
    <img src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos"/>
  </div>
