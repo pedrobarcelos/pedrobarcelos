@@ -4,17 +4,13 @@
   <img src="boy.gif" alt="this slowpoke moves"  width=300/>
 </div>
 
-[![Spotify](https://spotify-now-playing-git-master.pedrobarcelos.vercel.app)](https://open.spotify.com/user/pbarcelos56)
-
-
-
  <div align="center">
   <a href="https://twitter.com/ph_barcelos" target="blank"><img src="https://img.shields.io/twitter/follow/ph_barcelos?logo=twitter&style=for-the-badge" alt="ph_barcelos" /></a></p>
  </div>
  
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-git-master.pedrobarcelos.vercel.app///api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/pbarcelos56)
+[<img src="https://https://spotify-now-playing.pedrobarcelos.vercel.app///api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/pbarcelos56)
  <div>
    <img src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos"/>
  </div>
