@@ -4,7 +4,7 @@
   <img src="boy.gif" alt="this slowpoke moves"  width=300/>
 </div>
 
-
+[![Spotify](https://spotify-now-playing-git-master.pedrobarcelos.vercel.app)](https://open.spotify.com/user/pbarcelos56)
 
 
 
