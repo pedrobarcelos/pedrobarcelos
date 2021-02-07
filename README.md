@@ -8,9 +8,6 @@
   <a href="https://twitter.com/ph_barcelos" target="blank"><img src="https://img.shields.io/twitter/follow/ph_barcelos?logo=twitter&style=for-the-badge" alt="ph_barcelos" /></a></p>
  </div>
  
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing.pedrobarcelos.vercel.app///api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/pbarcelos56)
  <div>
    <img src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos"/>
  </div>
@@ -19,6 +16,10 @@
 - 👨‍💻 All of my projects are available at [https://phbarcelos.blogspot.com](https://phbarcelos.blogspot.com)
 - 📫 How to reach me **pbarcelos56@icloud.com**
 - ⚡ Fun fact **I hate beans**
+
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing.pedrobarcelos.vercel.app///api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/pbarcelos56)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
