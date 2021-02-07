@@ -4,7 +4,7 @@
   <img src="boy.gif" alt="this slowpoke moves"  width=300/>
 </div>
 
-[![Spotify](https://pedrobarcelos.vercel.app/api/spotify)](https://open.spotify.com/user/pedrobarcelos)
+[![Spotify](https://pedrobarcelos.vercel.app/api/spotify)](https://open.spotify.com/user/pbarcelos56)
 
 
 
