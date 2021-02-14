@@ -12,7 +12,7 @@
    <img src="https://komarev.com/ghpvc/?username=pedrobarcelos&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarcelos"/>
  </div>
 
-- 🌱 I’m currently learning **JavaScript, Java** 
+- 🌱 I’m currently learning **JavaScript, Java, Spring Boot, JPA, RESTFUL API and MYSQL** 
 - 👨‍💻 All of my projects are available at [https://phbarcelos.blogspot.com](https://phbarcelos.blogspot.com)
 - 📫 How to reach me **pbarcelos56@icloud.com**
 - ⚡ 2020 main goal: **To be hired!**
