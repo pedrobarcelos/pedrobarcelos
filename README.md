@@ -19,7 +19,7 @@
 
 ### Vibing To 🎧
 
-<img src="https://playing-neon.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/pbarcelos56)
+[<img src="https://playing-pedrobarcelos.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/pbarcelos56)
 
 
 
