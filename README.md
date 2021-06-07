@@ -17,9 +17,10 @@
 - 📫 How to reach me **pbarcelos56@icloud.com**
 - ⚡ 2020 main goal: **To be hired!**
 
-### Vibing To 🎧
+### Spotify Playing 🎧
 
-[<img src="https://mandrake-dhvwzrdwo-pedrobarcelos.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="200" />](https://open.spotify.com/user/pbarcelos56)
+[<img src="https://spotify-now-playing-silk.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/pbarcelos56)
+
 
 
 
