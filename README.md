@@ -19,7 +19,7 @@
 
 ### Vibing To 🎧
 
-[![Spotify](https://https://vining-to-pedrobarcelos.vercel.app/api/vining-to)](https://open.spotify.com/user/pbarcelos56)
+<img src="https://vining-to-pedrobarcelos.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/pbarcelos56)
 
 
 
