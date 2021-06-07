@@ -19,7 +19,7 @@
 
 ### Vibing To 🎧
 
-[<img src="https://mandrake.vercel.app///api/mandrake" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/pbarcelos56)
+[<img src="https://mandrake.vercel.app/api/mandrake" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/pbarcelos56)
 
 
 
