@@ -17,7 +17,10 @@
 - 📫 How to reach me **pbarcelos56@icloud.com**
 - ⚡ 2020 main goal: **To be hired!**
 
-[<img src="https://playing-pedrobarcelos.vercel.app///api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/pbarcelos56)
+### Spotify Playing 🎧
+
+[<img src="https://mandrake.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/pbarcelos56)
+
 
 
 
