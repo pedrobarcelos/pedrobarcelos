@@ -4,7 +4,7 @@ Pedro Henrique Gonçalves Barcelos
 
 9 de agosto de 2023
 
-Formado no ensino médio em 2019 pelo Colégio Inácio de Loyola, Pedro Henrique ingressou no curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais (PUC Minas) em janeiro de 2020, devido a sempre ter gostado de *videogames* e de computadores. A facilidade e intimidade ao usar um computador também foram fatores que o influenciaram a escolher a área de prrogramação ao invés de outras áreas com grande aderencia de alunos na epoca. 
+Formado no ensino médio em 2019 pelo Colégio Inácio de Loyola, Pedro Henrique ingressou no curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais (PUC Minas) em janeiro de 2020, devido a sempre ter gostado de *videogames* e de computadores. A facilidade e intimidade ao usar um computador também foram fatores que o influenciaram a escolher a área de programação ao invés de outras áreas com grande aderencia de alunos na epoca. 
 
 Motivado não apenas por sua afinidade com o universo tecnológico, mas também por sua notavel intimidade em lidar com computadores, Pedro fez uma escolha corajosa ao optar por essa área, em detrimento de um curso de Economia que também lhe despertava interesse. Sua trajetória tomou um novo rumo em 2021, quando, devido a conflitos de horário, ele transferiu sua matrícula para o curso de Engenharia de *Software*, possibilitando que prosseguisse sua formação no turno noturno e se mantivesse imerso na mesma esfera de conhecimento.
 
